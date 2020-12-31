@@ -9,6 +9,7 @@ void insertAtIndex(int arr[],int sizeOfArray,int index,int element);
  // } Driver Code Ends
 
 
+//User function Template for C++
 
 // You need to insert the given element at the given index.
 // After inserting the elements at index, elements
